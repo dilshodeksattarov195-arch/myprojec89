@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpecrypt",
+        "uuid": 664652,
+        "checksum": "lzyb7i"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
